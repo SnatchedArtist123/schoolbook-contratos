@@ -12,4 +12,6 @@ Servicio encargado de realizar la administración de contratos que SchoolBook of
 * Tarjeta de crédito.
 ### Modelo relacional
 
+TGJA
+
 ![Modelo Relacional para contratos](docs/schoolbook-contratos.png)
